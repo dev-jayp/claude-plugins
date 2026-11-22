@@ -1,0 +1,12 @@
+{
+  "name": "session-manager",
+  "displayName": "Session Manager",
+  "version": "1.1.0",
+  "description": "List, archive, restore, and delete Claude Code sessions across all projects, with open-window detection and safety checks before any delete.",
+  "author": {
+    "name": "Jay Patel"
+  },
+  "repository": "https://github.com/dev-jayp/claude-plugins",
+  "license": "MIT",
+  "keywords": ["sessions", "cleanup", "archive", "resume", "housekeeping"]
+}

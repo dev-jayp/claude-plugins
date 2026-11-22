@@ -1,0 +1,14 @@
+{
+  "name": "dev-jayp-plugins",
+  "owner": {
+    "name": "Jay Patel"
+  },
+  "description": "Claude Code plugins from a working setup: session housekeeping first, more to follow.",
+  "plugins": [
+    {
+      "name": "session-manager",
+      "source": "./plugins/session-manager",
+      "description": "List, archive, restore, and safely delete Claude Code sessions across all projects."
+    }
+  ]
+}
