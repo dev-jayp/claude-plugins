@@ -9,6 +9,11 @@
       "name": "session-manager",
       "source": "./plugins/session-manager",
       "description": "List, archive, restore, and safely delete Claude Code sessions across all projects."
+    },
+    {
+      "name": "session-hygiene",
+      "source": "./plugins/session-hygiene",
+      "description": "Saves the model's working notes before auto-compaction and hands them back afterwards."
     }
   ]
 }

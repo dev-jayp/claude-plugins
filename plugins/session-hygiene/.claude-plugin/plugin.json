@@ -1,0 +1,12 @@
+{
+  "name": "session-hygiene",
+  "displayName": "Session Hygiene",
+  "version": "1.0.0",
+  "description": "Saves the model's working notes before Claude Code auto-compacts a conversation and hands them back afterwards.",
+  "author": {
+    "name": "Jay Patel"
+  },
+  "repository": "https://github.com/dev-jayp/claude-plugins",
+  "license": "MIT",
+  "keywords": ["compaction", "handoff", "context", "hooks", "sessions"]
+}
